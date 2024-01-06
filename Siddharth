@@ -1,0 +1,87 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>College Name</title>
+  <style>
+    /* Add your CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #555;
+      color: #fff;
+      padding: 0.5rem;
+    }
+
+    section {
+      padding: 1rem;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>College siddhartha institution of engineering and technology </h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#courses">Courses</a></li>
+      <li><a href="#admissions">Admissions</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section id="home">
+    <h2>Welcome to College siddhartha institution of engineering and technology </h2>
+    <p>Explore our academic excellence and vibrant campus life.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Provide information about the college, its history, mission, and vision.</p>
+  </section>
+
+  <section id="courses">
+    <h2>Our Courses</h2>
+    <p>List and describe the courses offered by the college.</p>
+  </section>
+
+  <section id="admissions">
+    <h2>Admissions</h2>
+    <p>Include details about the admission process, requirements, and deadlines.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Include contact information and a form for inquiries.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 siddhartha institution of engineering and technology . All rights reserved.</p>
+  </footer>
+</body>
+
+</html>
